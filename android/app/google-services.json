@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17190233522",
+    "project_id": "doc-talk-10544",
+    "storage_bucket": "doc-talk-10544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17190233522:android:b42068e5c381d6a96070ab",
+        "android_client_info": {
+          "package_name": "com.example.doc_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17190233522-0cri8e7r3qd8dpauo0prv5bhgpa7je9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0OCY32Wz_nDReDCpYstRWOXC7isK0M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17190233522-0cri8e7r3qd8dpauo0prv5bhgpa7je9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
