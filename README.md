@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # allen
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# UHackathon4
+AI Text-to-Speech Voice Assistant
+>>>>>>> 784d4ec1d10ae715e2d81c70a07bbe61a541800e
